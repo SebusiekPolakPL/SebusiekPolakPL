@@ -1,16 +1,16 @@
 # Hey there! 👋 
 
-I'm Sebastian, an **aspiring web developer** based in Poland.
+I'm Sebastian, an **aspiring Frontend Developer** and Technical School Student based in Poland.
 
-I love building small projects, experimenting with code, and improving my skills every day.
+I love building small projects, experimenting with code, and improving my skills every day. I focus on writing clean code and following modern web standards.
 
-My main tech stack is HTML, CSS, JavaScript, TypeScript and MySQL. My favourite tools are Visual Studio Code, Apple Notes and enjoy sketching website ideas on my iPad.
+My main tech stack is HTML, CSS, JavaScript, TypeScript and MySQL. I also hold certifications in CCNA: Introduction to Networks, JS Essentials, and Modern AI, which help me build solid and secure applications.
 
 Here are some of my pinned projects 👇
 
 ## Fun Facts:
 
-* I'm a basketball player
-* I love coffee
-* I like watching American TV series
-* I'm interested in investing and financial markets
+* Basketball player
+* AI & Machine Learning enthusiast
+* Passionate about investing and financial markets
+* American TV series fan
